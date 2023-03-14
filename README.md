@@ -9,7 +9,7 @@ AmxModX 1.9.0 + ReAPI 5.21.0.252
 
 ## Настройки
 ```python
-//#define ZP43_Support - Поддержка ZP 4.3
+const Float:g_fStreakRemove = 3.0; // Время стрика.
 ```
 
 ## Установка
